@@ -5,12 +5,12 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Discover our legacy of excellence, crafting high-quality plastic parts with a customer-centric approach and over 40 years of proven expertise."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/polytech-outdoors.jpg"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Discover our legacy of excellence, crafting high-quality plastic parts with a customer-centric approach and over 40 years of proven expertise."
+  sub_heading: "Discover our legacy of excellence, crafting high-quality plastic parts with a customer-centric approach with nearly 40 years of proven expertise."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -23,17 +23,13 @@ hero:
         fa_icon: false
         size: large
 ---
-# About Polytech: Crafting Excellence, Every Project, Every Time
-
-**Buzz Words:** Excellence, Precision, Craftsmanship, Innovation, Customer-Centric.
+# Crafting Excellence, Every Project, Every Time
 
 Welcome to Polytech, where we embody a legacy of excellence in crafting high-quality, innovative plastic parts. With decades of experience and a dedicated team of skilled professionals, we are committed to delivering superior products that meet and exceed our clients' expectations.
 
 ## Our Journey
 
 Polytech was founded with a vision—to revolutionize the plastic molding industry by setting new standards in quality and customer service. Over the years, we've refined our processes, embraced innovation, and built lasting relationships with our clients.
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
 ## Our Core Values
 
@@ -51,6 +47,4 @@ Polytech was founded with a vision—to revolutionize the plastic molding indust
 - **Comprehensive Services:** From design to molding, finishing to assembly, we offer a full spectrum of services.
 - **Collaborative Approach:** We believe in working closely with our clients, forging strong, long-term partnerships.
 
-![Our Team](/assets/images/gen/content/content-2.webp)
-
-Join us at Polytech, where every project is a masterpiece, and excellence is our standard.
+![Proudly made in the USA](/assets/images/gen/content/made-in-usa.webp)

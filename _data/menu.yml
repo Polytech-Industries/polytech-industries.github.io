@@ -2,30 +2,30 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Services
-    url: /services/
-    weight: 1
-    child:
-      - name: "Design & Discovery"
-        url: /services/design/
-      - name: "Engineering & Tooling"
-        url: /services/tooling/
-      - name: "Low Pressure Molding"
-        url: /services/lpm/
-      - name: "Quality Assurance"
-        url: /services/quality/
-      - name: "Finishing & Assembly"
-        url: /services/finishing/
-      - name: "Project Management"
-        url: /services/manage/
-  - name: Projects
-    url: /projects/
-    weight: 2
-    child:
-      - name: "Evolv Express®"
-        url: /projects/evolv/
-      - name: "Invivo Orthepedic Coils"
-        url: /projects/invivo/
+#  - name: Services
+#    url: /services/
+#    weight: 1
+#    child:
+#      - name: "Design & Discovery"
+#        url: /services/design/
+#      - name: "Engineering & Tooling"
+#        url: /services/tooling/
+#      - name: "Low Pressure Molding"
+#        url: /services/lpm/
+#      - name: "Quality Assurance"
+#        url: /services/quality/
+#      - name: "Finishing & Assembly"
+#        url: /services/finishing/
+#      - name: "Project Management"
+#        url: /services/manage/
+#  - name: Projects
+#    url: /projects/
+#    weight: 2
+#    child:
+#      - name: "Evolv Express®"
+#        url: /projects/evolv/
+#      - name: "Invivo Orthepedic Coils"
+#        url: /projects/invivo/
 #      - name: "Opera House"
 #        url: /projects/opera-house/
 #      - name: "Subway Signage"
@@ -43,19 +43,19 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Services
-    url: /services/
-    weight: 2
-  - name: Projects
-    url: /projects/
-    weight: 3
+#  - name: Services
+#    url: /services/
+#    weight: 2
+#  - name: Projects
+#    url: /projects/
+#    weight: 3
 #  - name: Team
 #    url: /team/
 #    weight: 4
 footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 1
+#  - name: Blog
+#    url: /blog/
+#    weight: 1
   - name: About
     url: /about/
     weight: 2

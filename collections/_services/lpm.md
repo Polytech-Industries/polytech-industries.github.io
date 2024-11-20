@@ -6,7 +6,7 @@ weight: 3
 header_transparent: true
 icon: "assets/images/icons/icons8-user-engagement-male-100.png"
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/home/industrial-machine-drilling.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -31,39 +31,5 @@ hero:
         outline: false
         style: "primary"
 ---
-
-# Low Pressure Molding: Precision and Beauty United
-
-**Buzz Words:** Low Pressure Molding, Low-Volume, High Cosmetic, Precision Engineering.
-
-Our Low Pressure Molding service is where precision engineering meets the art of aesthetics. Crafted for low-volume projects with an emphasis on impeccable cosmetics, we offer a specialized molding technique that elevates your project to the pinnacle of beauty and accuracy.
-
-## What is Low Pressure Molding?
-
-Low Pressure Molding is the epitome of meticulous molding. It marries precision engineering with the demand for flawless aesthetics. Tailored for low-volume projects, this technique ensures that every detail is perfected without compromise.
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
-## Key Aspects of Low Pressure Molding
-
-Our Low Pressure Molding service is built on crucial elements essential for molding perfection:
-
-- Low-Volume Expertise: Specially designed for projects valuing quality over quantity.
-- High Cosmetic Finish: Delivering a flawless, aesthetically pleasing surface.
-- Precision Engineering: Optimizing every aspect for the finest results.
-
-> Low Pressure Molding: Where precision meets beauty.
-
-## Why Choose Low Pressure Molding?
-
-Low Pressure Molding is a testament to our commitment to excellence. It's the perfect choice when your project demands both beauty and precision. For projects with stringent cosmetic requirements and a focus on meticulous engineering, this specialized molding technique is the answer.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-Join us at Polytech and experience how Low Pressure Molding can transform your vision into a masterpiece, reflecting both precision and beauty.
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
----
-
-*Stay tuned for our upcoming posts as we delve deeper into the world of precision molding and the artistry of Low Pressure Molding.*
+<div id="ff-compose"></div>
+<script async defer src="https://formfacade.com/include/105635767408606641278/form/1FAIpQLSencyZ17bvsse-3KBzHYLZkehRParaKzGBZz_TkcEnEtWA8Tw/squarespace.js?div=ff-compose"></script>

@@ -42,11 +42,11 @@ services:
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
+  view_more_button_text: "Learn More"
+  view_more_button_link: "/contact"
 
 intro:
-  enabled: true
+  enabled: false
   align: left
   image: "/assets/images/gen/content/man-working-shop.jpg"
   heading: "Experts in Structural Foam Molding."
@@ -82,7 +82,7 @@ partners:
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
@@ -111,7 +111,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3
