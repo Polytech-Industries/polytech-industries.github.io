@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/home/web-opening-slide.jpg"
+  background_image: "/assets/images/gen/services/proton-bezel-cnc.jpg"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;
