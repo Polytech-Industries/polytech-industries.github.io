@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-1.webp"
 hero:
   enabled: true
   heading: "Quality Assurance"
-  sub_heading: "Leveraging state-of-the-art techniques, every product undergoes meticulous quality checks, upholding our reputation for unmatched reliability."
+  sub_heading: "ISO 9001:2015 certified, every product undergoes meticulous checks to uphold our reputation for unmatched quality in every part."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
