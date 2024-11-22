@@ -27,7 +27,7 @@ hero:
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
-        style: "primary" # "light", "dark", "primary"
+        style: "light" # "light", "dark", "primary"
 
 services:
   enabled: true
