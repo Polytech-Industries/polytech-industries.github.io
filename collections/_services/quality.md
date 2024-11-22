@@ -1,6 +1,6 @@
 ---
 title: "Quality Assurance"
-description: "Leveraging state-of-the-art techniques, every product undergoes meticulous quality checks, upholding our reputation for unmatched reliability."
+description: "ISO 9001:2015 certified, every product undergoes meticulous checks to uphold our reputation for unmatched quality in every part."
 date: 2021-07-23
 weight: 4
 header_transparent: true
