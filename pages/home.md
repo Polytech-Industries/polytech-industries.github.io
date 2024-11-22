@@ -19,22 +19,15 @@ hero:
   fullscreen_desktop: false
   height: "660px"
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+      - text: "Get Started"
+        url: "/contact"
+        external: false
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
-        style: "light" # "light", "dark", "primary"
-      - text: "Documentation"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: true
-        style: "light"
+        style: "primary" # "light", "dark", "primary"
 
 services:
   enabled: true
